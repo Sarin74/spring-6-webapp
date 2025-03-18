@@ -76,7 +76,7 @@ public class Publisher {
                 ", address='" + address + '\'' +
                 ", city='" + city + '\'' +
                 ", state='" + state + '\'' +
-                ", zip='" + zipCode + '\'' +
+                ", zipCode='" + zipCode + '\'' +
                 '}';
     }
 
